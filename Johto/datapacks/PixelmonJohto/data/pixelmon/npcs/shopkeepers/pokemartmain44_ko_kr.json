@@ -1,0 +1,27 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Radio Seller"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Radio Tower! Do you need a new radio?",
+      "goodbye": "Tune in to our shows for fun events and tunes!"
+    }
+  ],
+  "items": [
+    {
+      "name": "minecraft:carrot_on_a_stick",
+      "variation": false
+    }
+  ]
+}

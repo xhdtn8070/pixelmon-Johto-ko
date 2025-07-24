@@ -1,0 +1,71 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Poké Mart Clerk"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome! What do you need?",
+      "goodbye": "Please come again!"
+    }
+  ],
+  "items": [
+    {
+      "name": "Sinnoh: Flash",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Protect",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: False Swipe",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Natural Gift",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Light Screen",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Reflect",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Solar Beam",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Focus Blast",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Fire Blast",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Thunder",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Blizzard",
+      "variation": false
+    },
+    {
+      "name": "Sinnoh: Hyper Beam",
+      "variation": false
+    }
+  ]
+}

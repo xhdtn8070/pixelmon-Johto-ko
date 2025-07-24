@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "붉은 갸라도스"
+        },
+        "description": {
+            "text": "분노의 호수에서 붉은 갸라도스를 만나보라"
+        },
+        "icon": {
+            "item": "minecraft:music_disc_cat"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+      "parent": "johto:lighthousepokemon",
+      "criteria": {
+          "example": {
+              "trigger": "minecraft:impossible"
+          }
+      }
+    }

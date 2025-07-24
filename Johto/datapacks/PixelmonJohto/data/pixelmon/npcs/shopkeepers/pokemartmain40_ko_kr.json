@@ -1,0 +1,27 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Game Corner Clerk"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome! Do you need to stock up on coins?",
+      "goodbye": "Please come again!"
+    }
+  ],
+  "items": [
+    {
+      "name": "minecraft:emerald",
+      "variation": false
+    }
+  ]
+}

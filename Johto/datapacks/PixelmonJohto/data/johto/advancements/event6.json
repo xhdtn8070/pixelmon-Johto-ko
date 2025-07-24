@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "임베디드 타워"
+        },
+        "description": {
+            "text": "임베디드 타워에서 가이오가 또는 그란돈을 소환하라"
+        },
+        "icon": {
+            "item": "pixelmon:jade_orb"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+      "parent": "johto:adventurer",
+      "criteria": {
+          "example": {
+              "trigger": "minecraft:impossible"
+          }
+      }
+    }

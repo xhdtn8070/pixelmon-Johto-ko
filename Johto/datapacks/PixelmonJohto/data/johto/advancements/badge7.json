@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "글레이셔 배지"
+        },
+        "description": {
+            "text": "얼음 타입 체육관장 강호를 물리쳐라"
+        },
+        "icon": {
+            "item": "pixelmon:glacier_badge"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+      },
+      "parent": "johto:badge6",
+      "criteria": {
+          "example": {
+              "trigger": "minecraft:impossible"
+          }
+      }
+    }

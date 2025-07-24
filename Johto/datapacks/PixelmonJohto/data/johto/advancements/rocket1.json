@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "로켓단의 부활"
+        },
+        "description": {
+            "text": "야돈의 우물에서 로켓단을 발견하라"
+        },
+        "icon": {
+            "item": "pixelmon:slowpoke_tail"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+      },
+      "parent": "johto:mysteryegg",
+      "criteria": {
+          "example": {
+              "trigger": "minecraft:impossible"
+          }
+      }
+    }

@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "성도 지방",
+            "color": "white"
+        },
+        "description": {
+            "text": "스타팅 포켓몬을 선택하라!"
+        },
+        "icon": {
+            "item": "minecraft:white_shulker_box"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true,
+        "background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png"
+    },
+    "criteria": {
+        "example": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
