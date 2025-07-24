@@ -15,33 +15,32 @@
   ],
   "names": [
     {
-      "name": "Mrs. Hammersmith"
+      "name": "해머스미스 부인"
     },
     {
-      "name": "Mrs. Finnegan"
+      "name": "피니건 부인"
     },
     {
-      "name": "Mr. Prendergast"
+      "name": "프렌더거스트 씨"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
-      "goodbye": "Delighted to have met you. Good day."
+      "hello": "저희 아름다운 상점에 오신 것을 환영합니다. 저희 상품의 품질에 만족하실 거라 확신합니다.",
+      "goodbye": "만나서 반가웠어요. 좋은 하루 되세요."
     },
     {
-      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
-      "goodbye": "Thank you for shopping at the Poké Mart."
+      "hello": "안녕하세요, 포켓몬 상점에 오신 것을 환영합니다. 다양한 고급 상품을 준비했습니다.",
+      "goodbye": "포켓몬 상점에서 쇼핑해 주셔서 감사합니다."
     },
     {
-      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
-      "goodbye": "It was indeed a privilege to do business with you."
+      "hello": "환영합니다! 저희 포켓몬 상점은 훌륭한 품질의 상품을 제공합니다.",
+      "goodbye": "함께 거래할 수 있어 영광이었습니다."
     },
     {
-      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
-      "goodbye": "Good day to you, and thank you for shopping at our store."
+      "hello": "저희 고급 포켓몬 상점에 오신 것을 환영합니다. 다양한 고급 상품을 즐겨보세요.",
+      "goodbye": "좋은 하루 되시고 저희 상점에 방문해 주셔서 감사합니다."
     }
   ],
-  "items": [
-  ]
+  "items": []
 }

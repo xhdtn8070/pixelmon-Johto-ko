@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "\"Poké Mart Clerk\""
+      "name": "포켓몬 상점 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Huh? You hear wind blowing into this room? That is...just me whistling. Enough about that. Why don't you buy something?",
-      "goodbye": "Come back soon."
+      "hello": "엉? 바람 부는 소리가 들리나요? 아... 그건 그냥 제가 휘파람 부는 소리예요. 아무튼, 뭔가 사보는 건 어때요?",
+      "goodbye": "곧 다시 오세요."
     }
   ],
   "items": [

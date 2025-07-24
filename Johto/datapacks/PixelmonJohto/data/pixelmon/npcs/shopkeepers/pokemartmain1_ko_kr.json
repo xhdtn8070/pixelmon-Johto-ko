@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Banker"
+      "name": "은행원"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome! What do you need?",
-      "goodbye": "Please come again!"
+      "hello": "어서 오세요! 무엇을 도와드릴까요?",
+      "goodbye": "또 방문해 주세요!"
     }
   ],
   "items": [

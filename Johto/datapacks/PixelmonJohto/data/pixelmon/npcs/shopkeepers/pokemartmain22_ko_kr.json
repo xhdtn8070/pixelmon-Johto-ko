@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Poké Mart Clerk"
+      "name": "잔여시티 약국 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to the Cianwood Pharmacy! How may I help you?",
-      "goodbye": "See you next time."
+      "hello": "잔여시티 약국에 오신 것을 환영합니다! 무엇을 도와드릴까요?",
+      "goodbye": "다음에 또 만나요."
     }
   ],
   "items": [

@@ -9,19 +9,19 @@
   ],
   "names": [
     {
-      "name": "Daycare Gent"
+      "name": "육성소 신사"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to the Daycare!",
-      "goodbye": "See you next time."
+      "hello": "육성소에 오신 것을 환영합니다!",
+      "goodbye": "다음에 또 만나요."
     }
   ],
-"items": [
-  {
-    "name": "minecraft:egg",
-    "variation": false
-  }
-]
+  "items": [
+    {
+      "name": "minecraft:egg",
+      "variation": false
+    }
+  ]
 }

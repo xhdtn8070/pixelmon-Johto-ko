@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Bike Clerk"
+      "name": "자전거 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Our Bicycles are first-rate! You can ride them anywhere.",
-      "goodbye": "Come again soon!"
+      "hello": "저희 자전거는 최고급이에요! 어디서든 탈 수 있습니다.",
+      "goodbye": "또 들러주세요!"
     }
   ],
   "items": [

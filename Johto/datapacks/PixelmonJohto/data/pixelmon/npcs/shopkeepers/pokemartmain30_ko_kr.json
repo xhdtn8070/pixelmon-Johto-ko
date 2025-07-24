@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Mega Stone Seller"
+      "name": "메가스톤 판매원"
     }
   ],
   "chat": [
     {
-      "hello": "Hello there! I specialize in rare stones. Would you like to take a look?",
-      "goodbye": "Come see me again when you got a Mega Ring!"
+      "hello": "안녕하세요! 저는 희귀한 돌들을 전문으로 합니다. 한번 구경해보시겠어요?",
+      "goodbye": "메가링을 얻으면 다시 찾아오세요!"
     }
   ],
   "items": [

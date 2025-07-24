@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Poké Mart Clerk"
+      "name": "포켓몬 상점 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome! What do you need?",
-      "goodbye": "Please come again!"
+      "hello": "어서 오세요! 무엇을 도와드릴까요?",
+      "goodbye": "또 방문해 주세요!"
     }
   ],
   "items": [
@@ -67,6 +67,5 @@
       "name": "Sinnoh: Dark Pulse",
       "variation": false
     }
-
   ]
 }

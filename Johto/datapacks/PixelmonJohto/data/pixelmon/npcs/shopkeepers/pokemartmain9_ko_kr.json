@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Poké Mart Clerk"
+      "name": "포켓몬 상점 점원"
     }
   ],
   "chat": [
     {
-      "hello": "I have travled the world for these exotic plates! Interested in one?",
-      "goodbye": "See you next time."
+      "hello": "이 이국적인 플레이트들을 위해 세계를 여행해 왔습니다! 하나 구경해보시겠습니까?",
+      "goodbye": "다음에 또 만나요."
     }
   ],
   "items": [

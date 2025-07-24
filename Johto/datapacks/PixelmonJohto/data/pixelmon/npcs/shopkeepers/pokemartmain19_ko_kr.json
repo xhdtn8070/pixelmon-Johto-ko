@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Moomoo Farms Rancher"
+      "name": "무무목장 목장주"
     }
   ],
   "chat": [
     {
-      "hello": "How'd you like my Moomoo Milk? It's my pride and joy, there. Give it to Pokémon to restore HP!",
-      "goodbye": "Come back anytime!"
+      "hello": "내 무무밀크는 어때요? 제 자랑이자 보물이랍니다. 포켓몬에게 주면 HP를 회복할 수 있어요!",
+      "goodbye": "언제든 다시 찾아오세요!"
     }
   ],
   "items": [

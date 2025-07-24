@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Grandma"
+      "name": "할머니"
     }
   ],
   "chat": [
     {
-      "hello": "Whistle...whistle... Are you bothered by that noise? That's me. My false teeth don't fit right, and the gap makes the noise. Enough about that. Why don't you buy something?",
-      "goodbye": "Is that right? Well, come back anytime! Hee hee!"
+      "hello": "휘이... 휘이... 그 소리가 거슬리나요? 그건 저예요. 틀니가 잘 맞지 않아서 틈새로 소리가 나는 거예요. 아무튼, 뭔가 사보는 건 어때요?",
+      "goodbye": "그래요? 언제든 다시 오세요! 헤헤!"
     }
   ],
   "items": [

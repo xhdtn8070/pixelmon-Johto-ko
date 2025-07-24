@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Game Corner Clerk"
+      "name": "게임 코너 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome! Do you need to stock up on coins?",
-      "goodbye": "Please come again!"
+      "hello": "어서 오세요! 코인이 필요하신가요?",
+      "goodbye": "또 방문해 주세요!"
     }
   ],
   "items": [

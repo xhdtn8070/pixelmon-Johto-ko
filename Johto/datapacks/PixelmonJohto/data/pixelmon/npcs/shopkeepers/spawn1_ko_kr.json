@@ -16,22 +16,21 @@
   ],
   "names": [
     {
-      "name": "Jorlen"
+      "name": "조를렌"
     },
     {
-      "name": "Vincent"
+      "name": "빈센트"
     }
   ],
   "chat": [
     {
-      "hello": "You there! Pokémon hunter! I have precious items to offer you!",
-      "goodbye": "If you are lucky, you might see me again, Pokémon hunter."
+      "hello": "자, 포켓몬 사냥꾼! 귀중한 아이템을 드릴게요!",
+      "goodbye": "운이 좋으면 다시 만날지도 몰라요, 포켓몬 사냥꾼."
     },
     {
-      "hello": "Hello! I see you are a connoisseur of fine Pokémon ware! I have some rare treasures for sale here.",
-      "goodbye": "It's been a pleasure doing business with you."
+      "hello": "안녕하세요! 당신은 진정한 포켓몬 애호가군요! 여기 희귀한 보물이 있습니다.",
+      "goodbye": "거래해 주셔서 감사합니다."
     }
   ],
-  "items": [
-  ]
+  "items": []
 }

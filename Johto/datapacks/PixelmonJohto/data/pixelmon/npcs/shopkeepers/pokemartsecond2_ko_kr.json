@@ -9,15 +9,14 @@
   ],
   "names": [
     {
-      "name": "Mrs. Finnegan"
+      "name": "피니건 부인"
     }
   ],
   "chat": [
     {
-      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
-      "goodbye": "Thank you for shopping at the Poké Mart."
+      "hello": "안녕하세요, 포켓몬 상점에 오신 것을 환영합니다. 다양한 고급 상품을 준비했습니다.",
+      "goodbye": "포켓몬 상점에서 쇼핑해 주셔서 감사합니다."
     }
   ],
-  "items": [
-  ]
+  "items": []
 }

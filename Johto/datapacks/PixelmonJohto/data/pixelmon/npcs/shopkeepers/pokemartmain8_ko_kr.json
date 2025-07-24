@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Poké Mart Clerk"
+      "name": "포켓몬 상점 점원"
     }
   ],
   "chat": [
     {
-      "hello": "Welcome to the Herbal Shop. Would you like to try our items?",
-      "goodbye": "See you next time."
+      "hello": "약초 상점에 오신 것을 환영합니다. 저희 상품을 사용해보시겠습니까?",
+      "goodbye": "다음에 또 만나요."
     }
   ],
   "items": [

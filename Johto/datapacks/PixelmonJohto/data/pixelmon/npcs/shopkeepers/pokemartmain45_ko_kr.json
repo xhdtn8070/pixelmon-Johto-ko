@@ -9,13 +9,13 @@
   ],
   "names": [
     {
-      "name": "Candy Salesman"
+      "name": "사탕 판매원"
     }
   ],
   "chat": [
     {
-      "hello": "Hiya, kid! I see you're new in Mahogany Town. Since you're new, you should try a yummy RageCandyBar! Right now, it can be yours for just $300! Want one?",
-      "goodbye": "Oh, fine then..."
+      "hello": "안녕, 꼬마야! 마호가니 마을에 처음 왔구나. 처음 왔다면 맛있는 분노사탕바를 한번 먹어봐야지! 지금 단돈 300원이야! 하나 살래?",
+      "goodbye": "아, 알겠어..."
     }
   ],
   "items": [
